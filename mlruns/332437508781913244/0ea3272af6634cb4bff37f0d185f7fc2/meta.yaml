@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/udaysidhu/Documents/mlops-demo/mlruns/332437508781913244/0ea3272af6634cb4bff37f0d185f7fc2/artifacts
+end_time: 1764172592185
+entry_point_name: ''
+experiment_id: '332437508781913244'
+lifecycle_stage: active
+run_id: 0ea3272af6634cb4bff37f0d185f7fc2
+run_name: gradient_boosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764172590421
+status: 3
+tags: []
+user_id: udaysidhu

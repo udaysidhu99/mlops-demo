@@ -1,0 +1,10 @@
+artifact_location: file:///Users/udaysidhu/Documents/mlops-demo/mlruns/332437508781913244/models/m-bbf74fe0b1af44d090e7d2c2891b1737/artifacts
+creation_timestamp: 1764172589068
+experiment_id: '332437508781913244'
+last_updated_timestamp: 1764172590418
+model_id: m-bbf74fe0b1af44d090e7d2c2891b1737
+model_type: null
+name: model
+source_run_id: b701fa8664d6452fbb7719b0b4484e30
+status: 2
+status_message: null

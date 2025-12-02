@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/udaysidhu/Documents/mlops-demo/mlruns/332437508781913244/b701fa8664d6452fbb7719b0b4484e30/artifacts
+end_time: 1764172590420
+entry_point_name: ''
+experiment_id: '332437508781913244'
+lifecycle_stage: active
+run_id: b701fa8664d6452fbb7719b0b4484e30
+run_name: random_forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764172588904
+status: 3
+tags: []
+user_id: udaysidhu

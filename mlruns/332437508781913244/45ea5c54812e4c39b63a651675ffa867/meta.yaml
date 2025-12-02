@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/udaysidhu/Documents/mlops-demo/mlruns/332437508781913244/45ea5c54812e4c39b63a651675ffa867/artifacts
+end_time: 1764173205634
+entry_point_name: ''
+experiment_id: '332437508781913244'
+lifecycle_stage: active
+run_id: 45ea5c54812e4c39b63a651675ffa867
+run_name: logistic_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764173203818
+status: 3
+tags: []
+user_id: udaysidhu
