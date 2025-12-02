@@ -25,6 +25,8 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run training script (MLflow)
+        env:
+          MLFLOW_TRACKING_URI: "file:./mlruns_ci"
         run: |
           python mlflow_experiments/train.py
 
